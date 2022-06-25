@@ -1,16 +1,16 @@
 
-    /*base*/
-    @import "../css/base/base.css">;
-    @import "../css/base/layout.css">;
+    /* base */
+    @import "/css/base/base.css";
+    @import "/css/base/layout.css";
 
    /*3rd-party*/
-    
+    @import "/css/3rd-party/font-awesome.min.css";
   /*components*/
-   @import "../css/components/button.css">;
-   @import "../css/components/clock.css">;
-   @import "../css/components/form.css">;
-   @import "../css/components/mouse.css">;
-   @import "../css/components/progress-bar.css">
+   @import "/css/components/button.css";
+   @import "/css/components/clock.css";
+   @import "/css/components/form.css";
+   @import "/css/components/mouse.css";
+   @import "/css/components/progress-bar.css";
 /* CUSTOM STYLE GOES COMING SOON THIZ COMENT LINE,please*/
 
 body{

@@ -85,7 +85,7 @@
     "websocket-extensions": "^0.1.4"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "dead-server --port=3000 --host=localhost"
   },
   "author": "",
   "license": "ISC",
