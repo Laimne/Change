@@ -90,5 +90,13 @@
   "author": "",
   "license": "ISC",
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laimne/Change.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Laimne/Change/issues"
+  },
+  "homepage": "https://github.com/Laimne/Change#readme",
   "description": ""
 }
