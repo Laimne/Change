@@ -14,5 +14,24 @@
 /* CUSTOM STYLE GOES COMING SOON THIZ COMENT LINE,please*/
 
 body{
-    background-color: aqua;
+    element: .style;
+    background-color: rgb(118, 159, 247);
+    .logo {
+        height: 60px;
+        width: 100%;
+        margin-bottom 20px;
+        object-fit: contain;
+    }
+    .hero > .row-short {
+        display: flex-wrap:nav-index: ;;
+        flex-direction: column;
+        text-align:center;
+        gap: 20px;
+    }
+
+
+
+    }
+    }
+    }
 }
