@@ -11,8 +11,45 @@
    @import "/css/components/form.css";
    @import "/css/components/mouse.css";
    @import "/css/components/progress-bar.css";
+
 /* CUSTOM STYLE GOES COMING SOON THIZ COMENT LINE,please*/
 
-.hero{
+.hero {
     padding-bottom: 20px;
+}
+.hero > .row-short {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+}
+
+.logo {
+    height: 60px;
+    width: 100%;
+    margin-bottom: 20px;
+    object-fit: contain;
+}
+
+.main-title {
+    font-size: 70px;
+    text-transform: uppercase;
+}
+
+.main-description {
+    font-size: 20px;
+}
+
+.clock {
+    margin: 40px 0;
+}
+
+footer.container {
+    padding-top: 0;
+}
+
+@media (max-width: 500px) {
+    .main-title {
+        font-size: 50px;
+    }
 }
